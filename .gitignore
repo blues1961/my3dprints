@@ -1,4 +1,5 @@
 *.log
 .DS_Store
+.codex
 # FreeCAD backup files
 *.FCBak
